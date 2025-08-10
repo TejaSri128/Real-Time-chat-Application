@@ -1,6 +1,6 @@
 # Real-Time Chat Application
 
-A simple and responsive **real-time chat application** that allows multiple users to communicate instantly via a web interface. Built with **HTML, CSS, JavaScript**, and **PHP** using WebSocket technology.
+A simple and responsive **real-time chat application** that allows multiple users to communicate instantly via a web interface. Built with **HTML, CSS, JavaScript**, and **PHP**.
 
 ---
 
